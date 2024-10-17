@@ -3,8 +3,8 @@
 
 <!--Aresentação-->
 <div>
-Hello! I'm Kaique Thomaz, a developer passionate about technology and innovation, 
-aiming to keep learning and exploring new tools and frameworks. My goal's to enhance my 
+Hello! I'm Kaique Thomaz, a developer who´s passionate about technology and innovation, 
+aiming to keep learning and exploring new tools and frameworks. My goal is to enhance my 
 full stack skills.
 
 ##
