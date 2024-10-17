@@ -1,9 +1,11 @@
+<!--título-->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0040c5&size=35&center=true&vCenter=true&width=1000&lines=Sejam+bem+vindos+ao+meu+Github;Me+chamo+Kaique+Thomaz+;E+eu+tenho+18+anos+🙃;)](https://git.io/typing-svg)
 
+<!--Aresentação-->
 <div>
 Hello! I'm Kaique Thomaz, a developer passionate about technology and innovation, 
-always learning and exploring new tools and frameworks. My objective's to enhance my 
-skills.
+aiming to keep learning and exploring new tools and frameworks. My goal's to enhance my 
+full stack skills.
 
 ##
 
