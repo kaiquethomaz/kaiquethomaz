@@ -49,5 +49,5 @@ inovation. I'm dedicated to continuously learning and exploring new tools and fr
 <img src="https://github-profile-trophy.vercel.app/?username=kaiquethomaz&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </div>
 
-##
+## 
  
