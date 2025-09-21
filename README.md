@@ -44,14 +44,8 @@ inovation. I'm dedicated to continuously learning and exploring new tools and fr
   <img src="https://img.shields.io/badge/C-0040C5?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/C%2B%2B-0040C5?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/C%23-0040C5?style=for-the-badge&logo=c-sharp&logoColor=white">
-  <img src="https://img.shields.io/badge/Flutter-0040C5?style=for-the-badge&logo=flutter&logoColor=white">
   <img src="https://img.shields.io/badge/HTML-0040C5?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-0040C5?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-0040C5?style=for-the-badge&logo=javascript&logoColor=white">
-  <img src="https://img.shields.io/badge/Kotlin-0040C5?&style=for-the-badge&logo=kotlin&logoColor=white">
   <img src="https://img.shields.io/badge/Python-0040C5?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Ruby-0040C5?style=for-the-badge&logo=ruby&logoColor=white">
-  <img src="https://img.shields.io/badge/TypeScript-0040C5?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/Visual_Studio-0040C5?style=for-the-badge&logo=visual%20studio&logoColor=white">
 </div>
 
