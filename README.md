@@ -51,8 +51,3 @@ inovation. I'm dedicated to continuously learning and exploring new tools and fr
 
 ##
  
-<!--Contador de visão-->
-<div align="center"> 
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/kaiquethomaz/count.svg" /></p> 
-<br></div>
