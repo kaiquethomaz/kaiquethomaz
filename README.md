@@ -1,8 +1,3 @@
-<!--título-->
-
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=900&letterSpacing=1px&duration=3000&pause=1000&color=0040C5&center=true&width=435&lines=Sejam+bem+vindos+ao+meu+Github;Me+chamo+Kaique+Thomaz+🤝;E+eu+tenho+18+anos+." alt="Typing SVG" /></a>
-</div>
 
 <!--Apresentação-->
 
