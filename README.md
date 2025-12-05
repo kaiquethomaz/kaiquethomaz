@@ -17,21 +17,6 @@ inovation. I'm dedicated to continuously learning and exploring new tools and fr
 <a href = "kaiqueaguiar3@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-<!--Gráfico de Atividade-->
-
-##
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kaiquethomaz&bg_color=00000&color=0040c5&line=0040c5&point=0040c5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-<div align="center"> 
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kaiquethomaz&show_icons=true&count_private=true&hide_border=true&title_color=0040c5&icon_color=ffc000&text_color=ffc000&bg_color=0000" alt="kaiquethomaz's status" /> 
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiquethomaz&layout=compact&hide_border=true&title_color=ffc000&text_color=ffc000&bg_color=0000" />
-</div>
-
-<br>
-<br>
-
 <!--Linguagens-->
 
 ## Linguagens:
