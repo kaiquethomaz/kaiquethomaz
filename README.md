@@ -36,6 +36,7 @@ Um projeto B2B completo para gestão opericonal e de pedidos via QR Code no seto
 
 <p align="center">
 <img height="180em" src="https://github.com/kaiquethomaz/kaiquethomaz/issues/1#issue-4282505990" />
+</p>
 
 ---
 
