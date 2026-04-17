@@ -15,7 +15,8 @@ Um projeto B2B completo para gestão opericonal e de pedidos via QR Code no seto
 
 ---
 
-### 🛠️ Meu Core Tecnológico
+### 🛠️ Ferramentas e Tecnologias
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-007ACC?style=for-the-badge&logo=python&logoColor=white" />
@@ -32,6 +33,7 @@ Um projeto B2B completo para gestão opericonal e de pedidos via QR Code no seto
   <img src="https://img.shields.io/badge/GitHub_Dev-007ACC?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Netlify_Host-007ACC?style=for-the-badge&logo=netlify&logoColor=white" />
 </p>
+
 
 ---
 
