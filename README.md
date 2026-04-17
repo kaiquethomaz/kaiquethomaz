@@ -37,7 +37,7 @@ Atualmente cursando **Análise e Desenvolvimento de Sistemas (ADS)**, sou um pro
 <br>
 
 **[GetBaron](https://getbaron.com.br)**
-Uma plataforma B2B completo para gestão operacional, financeira e logística de pedidos via QR Code.
+uma plataforma B2B completo para gestão operacional, financeira e logística de pedidos via QR Code.
 * **Meu Papel:** CEO & CTO | Desenvolvedor Fullstack | Arquiteto de Dados
 * **Stack:** #TypeScript #Python #Supabase #VPS
 
