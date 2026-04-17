@@ -34,6 +34,9 @@ Um projeto B2B completo para gestão opericonal e de pedidos via QR Code no seto
 * **Meu Papel:** Backend, arquitetura de dados e dashboards de vendas.
 * **Stack:** #TypeScript #Python #Supabase #VPS
 
+<p align="center">
+<img height="180em" src="https://github.com/kaiquethomaz/kaiquethomaz/issues/1#issue-4282505990" />
+
 ---
 
 ### 📊 Estatísticas do GitHub
