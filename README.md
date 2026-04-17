@@ -8,7 +8,7 @@ Atualmente cursando **Análise e Desenvolvimento de Sistemas (ADS)**, sou um pro
 
 ### 🛠️ Ferramentas e Tecnologias
 
-
+</br>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-007ACC?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL_Server-007ACC?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -24,21 +24,23 @@ Atualmente cursando **Análise e Desenvolvimento de Sistemas (ADS)**, sou um pro
   <img src="https://img.shields.io/badge/GitHub_Dev-007ACC?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Netlify_Host-007ACC?style=for-the-badge&logo=netlify&logoColor=white" />
 </p>
-
+</br>
 ---
 
 ### 🚀 Projeto em Destaque
 
+</br>
 **[GetBaron](https:getbaron.com.br)**
 Um projeto B2B completo para gestão opericonal e de pedidos via QR Code no setor de bares e restaurantes.
 * **Meu Papel:** Backend, arquitetura de dados e dashboards de vendas.
 * **Stack:** #TypeScript #Python #Supabase #VPS
 
+</br>
 <p align="center">
 <img src="https://github.com/user-attachments/assets/7385d6f1-5d90-4822-9793-a9c169a40a1d" width="49%" />
 <img src="https://github.com/user-attachments/assets/8c5a1f42-f69b-418b-a812-025c054cf17c" width="49%" />
 </p>  
-
+</br>
 ---
 
 ### 📊 Estatísticas do GitHub
