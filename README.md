@@ -35,7 +35,7 @@ Um projeto B2B completo para gestão opericonal e de pedidos via QR Code no seto
 * **Stack:** #TypeScript #Python #Supabase #VPS
 
 <p align="center">
-<img width="1000" height="900" alt="Image" src="https://github.com/user-attachments/assets/7385d6f1-5d90-4822-9793-a9c169a40a1d" />
+<img width="1000" height="400" alt="Image" src="https://github.com/user-attachments/assets/7385d6f1-5d90-4822-9793-a9c169a40a1d" />
 </p>
 
 ---
