@@ -6,15 +6,6 @@ Atualmente cursando **Análise e Desenvolvimento de Sistemas (ADS)**, sou um pro
 
 ---
 
-### 🚀 Projeto em Destaque
-
-**[GetBaron](https:getbaron.com.br)**
-Um projeto B2B completo para gestão opericonal e de pedidos via QR Code no setor de bares e restaurantes.
-* **Meu Papel:** Backend, arquitetura de dados e dashboards de vendas.
-* **Stack:** #TypeScript #Python #Supabase #VPS
-
----
-
 ### 🛠️ Ferramentas e Tecnologias
 
 
@@ -34,6 +25,14 @@ Um projeto B2B completo para gestão opericonal e de pedidos via QR Code no seto
   <img src="https://img.shields.io/badge/Netlify_Host-007ACC?style=for-the-badge&logo=netlify&logoColor=white" />
 </p>
 
+---
+
+### 🚀 Projeto em Destaque
+
+**[GetBaron](https:getbaron.com.br)**
+Um projeto B2B completo para gestão opericonal e de pedidos via QR Code no setor de bares e restaurantes.
+* **Meu Papel:** Backend, arquitetura de dados e dashboards de vendas.
+* **Stack:** #TypeScript #Python #Supabase #VPS
 
 ---
 
@@ -48,7 +47,7 @@ Um projeto B2B completo para gestão opericonal e de pedidos via QR Code no seto
 
 ### 📫 Vamos conversar?
 
-* 💼 [LinkedIn](https://linkedin.com/in/seu-perfil)
+* 💼 [LinkedIn]([https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/kaique-thomaz-891510310/))
 * 🌐 [Meu Portfólio no Netlify](https://seu-portfolio.netlify.app)
 * ✉️ [Email](mailto:kaiqueaguiar3@gmail.com)
 
