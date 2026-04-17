@@ -17,26 +17,22 @@ Um projeto B2B completo para gestão opericonal e de pedidos via QR Code no seto
 
 ### 🛠️ Meu Core Tecnológico
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center"><img src="https://img.shields.io/badge/Python-007ACC?style=for-the-badge&logo=python&logoColor=white" width="150"></td>
-      <td align="center"><img src="https://img.shields.io/badge/SQL-007ACC?style=for-the-badge&logo=postgresql&logoColor=white" width="150"></td>
-      <td align="center"><img src="https://img.shields.io/badge/Pandas-007ACC?style=for-the-badge&logo=pandas&logoColor=white" width="150"></td>
-      <td align="center"><img src="https://img.shields.io/badge/Power_BI-007ACC?style=for-the-badge&logo=power-bi&logoColor=white" width="150"></td>
-      <td align="center"><img src="https://img.shields.io/badge/Excel-007ACC?style=for-the-badge&logo=microsoft-excel&logoColor=white" width="150"></td>
-      <td align="center"><img src="https://img.shields.io/badge/C%23-007ACC?style=for-the-badge&logo=c-sharp&logoColor=white" width="150"></td>
-    </tr>
-    <tr>
-      <td align="center"><img src="https://img.shields.io/badge/JavaScript-007ACC?style=for-the-badge&logo=javascript&logoColor=white" width="150"></td>
-      <td align="center"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" width="150"></td>
-      <td align="center"><img src="https://img.shields.io/badge/HTML5-007ACC?style=for-the-badge&logo=html5&logoColor=white" width="150"></td>
-      <td align="center"><img src="https://img.shields.io/badge/C-007ACC?style=for-the-badge&logo=c&logoColor=white" width="150"></td>
-      <td align="center"><img src="https://img.shields.io/badge/GitHub-007ACC?style=for-the-badge&logo=github&logoColor=white" width="150"></td>
-      <td align="center"><img src="https://img.shields.io/badge/Netlify-007ACC?style=for-the-badge&logo=netlify&logoColor=white" width="150"></td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-007ACC?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-007ACC?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-007ACC?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-007ACC?style=for-the-badge&logo=power-bi&logoColor=white" />
+  <img src="https://img.shields.io/badge/MS_Excel-007ACC?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/C_Sharp-007ACC?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/JavaScript-007ACC?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5_CSS-007ACC?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/C_Language-007ACC?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Dev-007ACC?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify_Host-007ACC?style=for-the-badge&logo=netlify&logoColor=white" />
+</p>
+
 ---
 
 ### 📊 Estatísticas do GitHub
