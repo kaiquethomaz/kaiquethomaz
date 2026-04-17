@@ -1,6 +1,6 @@
 # Olá, eu sou o Kaique! 👋
 
-## Analista de Dados & Automação para Desenvolvimento de Sistemas 
+## Analista de Dados & Automação para Desenvolvimento de Sistemas
 
 Atualmente cursando **Análise e Desenvolvimento de Sistemas (ADS)**, sou um profissional apaixonado por transformar dados em insights estratégicos e otimizar processos através da automação. Com 19 anos, foco minha carreira na intersecção entre o desenvolvimento de software corporativo e a inteligência de negócios.
 
