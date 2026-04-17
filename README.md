@@ -1,6 +1,6 @@
 # Olá, eu sou o Kaique! 👋
 
-## Analista de Dados & Automação | ADS | Python • SQL • Power BI | TypeScript & C#
+## Analista de Dados & Automação para desenvolvimentos de Sistemas 
 
 Atualmente cursando **Análise e Desenvolvimento de Sistemas (ADS)**, sou um profissional apaixonado por transformar dados em insights estratégicos e otimizar processos através da automação. Com 19 anos, foco minha carreira na intersecção entre o desenvolvimento de software corporativo e a inteligência de negócios.
 
@@ -8,8 +8,8 @@ Atualmente cursando **Análise e Desenvolvimento de Sistemas (ADS)**, sou um pro
 
 ### 🚀 Projeto em Destaque
 
-**[GetBaron](https://seu-link-do-getbaron.com)**
-Um ecossistema B2B completo para gestão logística e de pedidos via QR Code no setor de bares e restaurantes.
+**[GetBaron](https:getbaron.com.br)**
+Um projeto B2B completo para gestão opericonal e de pedidos via QR Code no setor de bares e restaurantes.
 * **Meu Papel:** Backend, arquitetura de dados e dashboards de vendas.
 * **Stack:** #TypeScript #Python #Supabase #VPS
 
