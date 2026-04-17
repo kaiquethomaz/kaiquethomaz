@@ -1,30 +1,50 @@
+# Olá, eu sou o Kaique! 👋
 
-<!--Apresentação-->
+## Analista de Dados & Automação | ADS | Python • SQL • Power BI | TypeScript & C#
 
-<div align="center">
-Hello! I'm Kaique Thomaz, a passionate developer focused on technology and 
-inovation. I'm dedicated to continuously learning and exploring new tools and frameworks, with the goal of enhancing my full-stack skills.
-</div>
+Atualmente cursando **Análise e Desenvolvimento de Sistemas (ADS)**, sou um profissional apaixonado por transformar dados em insights estratégicos e otimizar processos através da automação. Com 19 anos, foco minha carreira na intersecção entre o desenvolvimento de software corporativo e a inteligência de negócios.
 
-<br>
-<br>
+---
 
-<!--Redes Sociais-->  
+### 🚀 Projeto em Destaque
 
-<div align="center"> 
-<a href="https://www.instagram.com/_kaiquethomaz_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/kaique-thomaz-891510310/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href = "kaiqueaguiar3@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+**[GetBaron](https://seu-link-do-getbaron.com)**
+Um ecossistema B2B completo para gestão logística e de pedidos via QR Code no setor de bares e restaurantes.
+* **Meu Papel:** Backend, arquitetura de dados e dashboards de vendas.
+* **Stack:** #TypeScript #Python #Supabase #VPS
 
-<!--Linguagens-->
+---
 
-## Linguagens:
-<div align="center">
-  <img src="https://img.shields.io/badge/C-0040C5?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML-0040C5?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-0040C5?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Visual_Studio-0040C5?style=for-the-badge&logo=visual%20studio&logoColor=white">
-</div>
+### 🛠️ Meu Core Tecnológico
 
-##
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shieldsOf.badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shieldsOf.badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shieldsOf.badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
+  <img src="https://img.shieldsOf.badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shieldsOf.badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shieldsOf.badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
+  <img src="https://img.shieldsOf.badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaiquethomaz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiquethomaz&layout=compact&theme=dark"/>
+</p>
+
+---
+
+### 📫 Vamos conversar?
+
+* 💼 [LinkedIn](https://linkedin.com/in/seu-perfil)
+* 🌐 [Meu Portfólio no Netlify](https://seu-portfolio.netlify.app)
+* ✉️ [Email](mailto:kaiqueaguiar3@gmail.com)
+
+---
+
+> "Diferente de muitos desenvolvedores, eu não olho apenas para o código. Eu olho para a operação. Minha missão é traduzir a dor do negócio em uma solução técnica rápida, segura e baseada em dados reais."
