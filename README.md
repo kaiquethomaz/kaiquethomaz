@@ -53,19 +53,6 @@ uma plataforma B2B completo para gestão operacional, financeira e logística de
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<br>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaiquethomaz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiquethomaz&layout=compact&theme=dark"/>
-</p>
-
-<br>
-
----
-
 ### 📫 Vamos conversar?
 
 * 💼 [LinkedIn](https://www.linkedin.com/in/kaique-thomaz-891510310/)
