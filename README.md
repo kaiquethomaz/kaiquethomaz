@@ -44,34 +44,30 @@ status:   🟢 aberto a conexões
 </tr>
 </table>
 
-<!-- ===================== TIME / STACK ===================== -->
-## ⚔️ Meu Time
-
-<p align="center">
-  <sub>Cada membro do time representa uma frente do meu trabalho. Líder: Gengar 👻</sub>
-</p>
+<!-- ===================== HABILIDADES / STACK ===================== -->
+## ⚔️ Habilidades
 
 <table align="center">
 <tr>
-  <td align="center" width="120">
-    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" height="64" alt="Gengar" /><br>
-    <b>Gengar ⭐</b><br><sub>Automação<br>(roda nas sombras 24/7)</sub>
+  <td align="center" width="140">
+    <h3>⚙️</h3>
+    <b>Automação</b><br><sub>Processos que rodam sozinhos, 24/7</sub>
   </td>
-  <td align="center" width="120">
-    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/65.gif" height="64" alt="Alakazam" /><br>
-    <b>Alakazam</b><br><sub>Análise de Dados</sub>
+  <td align="center" width="140">
+    <h3>📊</h3>
+    <b>Análise de Dados</b><br><sub>Dados brutos viram decisão</sub>
   </td>
-  <td align="center" width="120">
-    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/376.gif" height="64" alt="Metagross" /><br>
-    <b>Metagross</b><br><sub>Arquitetura de Dados</sub>
+  <td align="center" width="140">
+    <h3>🗄️</h3>
+    <b>Arquitetura de Dados</b><br><sub>Modelagem e pipelines</sub>
   </td>
-  <td align="center" width="120">
-    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/479.gif" height="64" alt="Rotom" /><br>
-    <b>Rotom</b><br><sub>Fullstack</sub>
+  <td align="center" width="140">
+    <h3>💻</h3>
+    <b>Fullstack</b><br><sub>Do banco à interface</sub>
   </td>
-  <td align="center" width="120">
-    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/6.gif" height="64" alt="Charizard" /><br>
-    <b>Charizard</b><br><sub>Deploy & Infra</sub>
+  <td align="center" width="140">
+    <h3>🚀</h3>
+    <b>Deploy & Infra</b><br><sub>VPS, cloud e entrega contínua</sub>
   </td>
 </tr>
 </table>
@@ -130,8 +126,8 @@ Plataforma **B2B** completa para gestão operacional, financeira e logística de
 ## 📊 Estatísticas do Treinador
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaiquethomaz&show_icons=true&hide_border=true&bg_color=1A1025&title_color=FF4D6D&icon_color=A566E0&text_color=E6E6E6&rank_icon=github&locale=pt-br" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiquethomaz&layout=compact&hide_border=true&bg_color=1A1025&title_color=FF4D6D&text_color=E6E6E6&locale=pt-br" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kaiquethomaz&theme=dracula&bg_color=1A1025&title_color=FF4D6D&text_color=E6E6E6&icon_color=A566E0&border_color=1A1025&animation=stagger" height="180" alt="Estatísticas do GitHub" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kaiquethomaz&theme=dracula&bg_color=1A1025&title_color=FF4D6D&text_color=E6E6E6&icon_color=A566E0&border_color=1A1025&animation=stagger" height="180" alt="Linguagens mais usadas" />
 </p>
 
 <p align="center">
