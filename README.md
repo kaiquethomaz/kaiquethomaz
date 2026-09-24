@@ -147,13 +147,13 @@ Plataforma **B2B** completa para gestão operacional, financeira e logística de
 ## 📫 Vamos batalhar juntos?
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kaique-thomaz-891510310/">
+  <a href="https://www.linkedin.com/in/kaique-thomaz-coelho-aguiar-891510310/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://seu-portfolio.netlify.app">
+  <a href="https://kaiquethomaz.netlify.app">
     <img src="https://img.shields.io/badge/Portf%C3%B3lio-1A1025?style=for-the-badge&logo=netlify&logoColor=00C7B7" />
   </a>
-  <a href="mailto:kaiqueaguiar3@gmail.com">
+  <a href="kaiqueaguiar3@gmail.com">
     <img src="https://img.shields.io/badge/Email-7B3FB5?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
