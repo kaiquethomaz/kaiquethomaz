@@ -29,7 +29,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, apaixonado por tr
 
 ```yaml
 player:   Kaique Thomaz
-level:    19
+level:    20
 class:    Data Analyst / Dev
 guild:    GetBaron (CEO & CTO)
 quest:    ADS em andamento
