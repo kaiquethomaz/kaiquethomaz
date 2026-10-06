@@ -134,12 +134,12 @@ Plataforma **B2B** completa para gestão operacional, financeira e logística de
   <img src="https://streak-stats.demolab.com?user=kaiquethomaz&hide_border=true&background=1A1025&ring=A566E0&fire=FF4D6D&currStreakLabel=FF4D6D&sideLabels=E6E6E6&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9A9A9A&stroke=333333&locale=pt_BR" />
 </p>
 
-<!-- Cobrinha comendo as contribuições (gerada pela GitHub Action em .github/workflows/snake.yml) -->
+<!-- Gráfico de contribuições (gerado pela GitHub Action em .github/workflows/contributions.yml) -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kaiquethomaz/kaiquethomaz/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kaiquethomaz/kaiquethomaz/output/github-snake.svg" />
-    <img alt="Snake comendo as contribuições" src="https://raw.githubusercontent.com/kaiquethomaz/kaiquethomaz/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kaiquethomaz/kaiquethomaz/output/contributions-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kaiquethomaz/kaiquethomaz/output/contributions.svg" />
+    <img alt="Gráfico de contribuições" src="https://raw.githubusercontent.com/kaiquethomaz/kaiquethomaz/output/contributions.svg" width="100%" />
   </picture>
 </p>
 
