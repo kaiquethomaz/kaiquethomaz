@@ -20,7 +20,7 @@
 <tr>
 <td width="58%" valign="top">
 
-Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, apaixonado por transformar dados em insights estratégicos e otimizar processos através da automação. Minha carreira fica na intersecção entre **software corporativo** e **inteligência de negócios**.
+Estudante de **Engenharia de Software** e de **Análise e Desenvolvimento de Sistemas (ADS)**, apaixonado por transformar dados em insights estratégicos e otimizar processos através da automação. Minha carreira fica na intersecção entre **software corporativo** e **inteligência de negócios**.
 
 > Diferente de muitos desenvolvedores, eu não olho apenas para o código. Eu olho para a **operação**. Minha missão é traduzir a dor do negócio em uma solução técnica rápida, segura e baseada em dados reais.
 
